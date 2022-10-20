@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Nav from './components/Nav';
 import Skills from './components/Skills';
 import Social from './components/Social';
+import Projects from './components/Projects';
 //import Home from './components/Home';
 //import ContactForm from './components/Contact';
 
@@ -13,6 +14,7 @@ import triangle from '../src/assets/images/triangle.svg';
 // aos
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+
 AOS.init();
 
 function App() {
@@ -59,6 +61,8 @@ function App() {
 </main>
 <br></br>
 <Skills></Skills>
+<br></br>
+<Projects></Projects>
 
   </div>
   </div>
