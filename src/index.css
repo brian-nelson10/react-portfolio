@@ -37,6 +37,23 @@ body {
   max-width: 42em;
 }
 
+@font-face {
+  font-family: "Rock Salt";   
+  src: local("Rock Salt"),
+    url("./fonts/RockSalt-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Passion One";  
+  src: local("Passion One"),
+    url("./fonts/PassionOne-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Rubik"; 
+  src: local("Rubik"),
+    url("./fonts/Rubik-Regular.ttf") format("truetype");
+}
 
 /*
  * Header
@@ -77,7 +94,6 @@ body {
 
 h1 {
     font-family: 'Passion One', cursive;
-    font-size: 85px;
 }
 
 p {
@@ -97,7 +113,7 @@ h4,
 .intro {
     font-family: 'Rubik', sans-serif;
 }
-/* 
+
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;
@@ -165,7 +181,7 @@ h4,
 }
 
 .space {
-    background-image: url('/images/moon.png');
+    background-image: url('./assets/images/moon.png');
     background-repeat: no-repeat;
     background-position-x: 230%;
     background-position-y: -32%;
@@ -185,7 +201,7 @@ h4,
 }
 
 .circle {
-    background-image: url('/images/bnmoonclouds.png');
+    background-image: url('./assets/images/bnmoonclouds.png');
     background-repeat: no-repeat;
     background-size: 90%;
     background-position: fixed;
@@ -237,11 +253,19 @@ ul {
 }
 } 
 
-.fab {
-    font-size: 80px;
+.icon {
+  font-family: Passion One;
+  letter-spacing: 1px;
+  align-items: center;
+  font-size: larger;
 }
 
-.fab:hover {
+.fab {
+color: white;
+height: max-content;
+}
+
+.icon:hover {
     color: salmon;
 }
 
@@ -295,4 +319,4 @@ ul {
     height: 550px;
     position: inherit;
    
-} */
+} 
