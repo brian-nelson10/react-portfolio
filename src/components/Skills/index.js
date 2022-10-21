@@ -21,7 +21,7 @@ function Skills() {
                 <div className="d-flex justify-content-start lead"><ul>
                     <li>Lets create robust,</li>
                     <li>beautiful, and smart</li>
-                    <li>web and mobile applications.</li>
+                    <li>web or mobile applications.</li>
                 </ul> </div>
                 <div class="d-flex justify-content-start">
                     
@@ -44,7 +44,6 @@ function Skills() {
                     </div>
                  <div data-aos="fade-up" className="col-3 col-sm-2 my-3 aos-init aos-animate" 
                 data-aos-duration="1000" style={{display: 'inline', margin: 'auto',}}>
-                    {/* <i class="fab fa-css3 skill__square" aria-hidden="true"></i> */}
                     <img className="fab" alt="css3 logo" src={css3}/>
                     <h6 className="mt-1 icon">CSS3</h6>
                 </div>
@@ -52,13 +51,11 @@ function Skills() {
                 <div className="row skills">
                 <div data-aos="fade-up" className="col-3 col-sm-2 my-3 aos-init aos-animate" 
                 data-aos-duration="1000" style={{display: 'inline', margin: 'auto',}}>
-                    {/*  <i class="fab fa-js skill__square" aria-hidden="true"></i> */}
                     <img className="fab" alt="Javascript logo" src={js}/>
                     <h6 className="mt-1 icon">Javascript</h6>
                 </div>
                 <div data-aos="fade-up" className="col-3 col-sm-2 my-3 aos-init aos-animate" 
                 data-aos-duration="1000" style={{display: 'inline', margin: 'auto',}}>
-                    {/* <i class="fab fa-react skill__square" aria-hidden="true"></i> */}
                     <img className="fab" alt="react logo" src={react}/>
                     <h6 className="mt-1 icon">React</h6>
                 </div>
@@ -66,13 +63,11 @@ function Skills() {
             <div className="row skills">
                 <div data-aos="fade-up" className="col-3 col-sm-2 my-3 aos-init aos-animate" 
                 data-aos-duration="1000" style={{display: 'inline', margin: 'auto',}}>
-                    {/* <i class="fab fa-node skill__square" aria-hidden="true"></i> */}
                     <img className="fab" alt="nodejs logo" src={node}/>
                     <h6 className="mt-1 icon">Node</h6>
                 </div>
                 <div data-aos="fade-up" className="col-3 col-sm-2 my-3 aos-init aos-animate" 
                 data-aos-duration="1000" style={{display: 'inline', margin: 'auto',}}>
-                    {/* <i class="fab fa-git-alt skill__square" aria-hidden="true"></i> */}
                     <img className="fab" alt="github logo" src={git}/>
                     <h6 class="mt-1 icon">Github</h6>
                 </div>

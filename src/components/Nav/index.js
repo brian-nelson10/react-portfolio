@@ -11,9 +11,9 @@ function Nav() {
           </h3>
           <nav class="nav nav-masthead justify-content-center float-md-end">
             <a class="nav-link fw-bold py-1 px-0 active" aria-current="page" href="#home">Home</a>
-            <a class="nav-link fw-bold py-1 px-0" href="#">Explore</a>
-            <a class="nav-link fw-bold py-1 px-0" href="#">Projects</a>
-            <a class="nav-link fw-bold py-1 px-0" href="#">Contact</a>
+            <a class="nav-link fw-bold py-1 px-0" href="https://github.com/brian-nelson10">Explore</a>
+            <a class="nav-link fw-bold py-1 px-0" href="#projects">Projects</a>
+            <a class="nav-link fw-bold py-1 px-0" href="#contact">Contact</a>
           </nav>
         </div>
     

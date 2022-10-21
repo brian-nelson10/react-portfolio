@@ -3,6 +3,7 @@ import Nav from './components/Nav';
 import Skills from './components/Skills';
 import Social from './components/Social';
 import Projects from './components/Projects';
+import VanillaTilt from 'vanilla-tilt';
 //import Home from './components/Home';
 //import ContactForm from './components/Contact';
 
