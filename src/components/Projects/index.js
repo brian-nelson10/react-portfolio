@@ -6,7 +6,7 @@ import CardList from "../Cards";
 function Projects() {
     //const { currentCategory } = props;
     return(
-        <><section className="container">
+        <><section id="projects" className="container">
             <div className="row align-items-start">
                 <div className="col">
                     <img src={hand} alt="hand with pencil" class="hand" />

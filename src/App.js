@@ -5,7 +5,8 @@ import Social from './components/Social';
 import Projects from './components/Projects';
 import VanillaTilt from 'vanilla-tilt';
 //import Home from './components/Home';
-//import ContactForm from './components/Contact';
+import ContactSection from './components/Contact';
+import Footer from './components/Footer';
 
 //bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -31,7 +32,6 @@ function App() {
   </section>
   <main className="container px-3 text-start">
     
-    
     <div className="row align-items-start">
         
     <div className="col">
@@ -56,7 +56,6 @@ function App() {
         <img className="rocketman" src={require("../src/assets/images/space-dude.png")}/>
     </div>
 </div>
-
 </div>
 <Social></Social>
 </main>
@@ -64,12 +63,12 @@ function App() {
 <Skills></Skills>
 <br></br>
 <Projects></Projects>
-
+<br></br>
+<ContactSection></ContactSection>
+<Footer></Footer>
   </div>
   </div>
-  
   </body>
-
   );
 }
 
