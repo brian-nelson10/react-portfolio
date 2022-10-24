@@ -35,6 +35,8 @@ function Projects() {
                 </div>
             </div>
         </section>
+        <br></br>
+        <br></br>
         <section className="container">
             <CardList ></CardList>
             </section></>

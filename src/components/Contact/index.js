@@ -4,7 +4,7 @@ import ContactButton from "../shared/buttons";
 const ContactSection = () => {
     return (
 
-        <section>
+        <section id="contact">
     <div className="container-fluid">
     <div className="row align-items-start">
         <div className="col aos-init aos-animate" data-aos="zoom-out-right" data-aos-duration="2000">
@@ -18,10 +18,10 @@ const ContactSection = () => {
             <div className="container d-flex">
                 <h1 className="justify-content-start">
                     <ul>
-                        <li>Lets talk,</li>
-                        <li style={{color: 'salmon'}}>Collaborate,</li>
-                        <li>and grab some </li>
-                        <li id="drinkText">Coffee.</li>
+                        <li style={{fontSize: '250%'}}>Lets talk,</li>
+                        <li style={{fontSize: '250%', color: 'salmon'}}>Collaborate,</li>
+                        <li style={{fontSize: '250%'}}>and grab some </li>
+                        <li style={{fontSize: '250%'}} id="drinkText">Coffee.</li>
                         <li><ContactButton></ContactButton></li>
                     </ul>
                 </h1>
@@ -36,8 +36,6 @@ const ContactSection = () => {
 </div>
 </div>
 </section>
-
-
     )
 }
 

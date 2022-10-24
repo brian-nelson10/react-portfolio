@@ -25,21 +25,20 @@ function App() {
     <div className="container">
 <div className="cover-container-fluid d-flex w-100 h-100 p-3 mx-auto flex-column">
     <Nav></Nav>
-    <br/>
+    <br></br>
     <section class="">
   <div className="triangle2"><img alt="3d triangle" src={triangle}/>
   </div>
   </section>
+  <br></br>
   <main className="container px-3 text-start">
-    
-    <div className="row align-items-start">
-        
+    <div className="row align-items-start"> 
     <div className="col">
     <div className="d-flex justify-content-center">
         <hr className="border-violet"/>
         <h4 className="font-light gradient-text fs-6">Who are you?</h4>
     </div>
-    <h1 className="d-flex justify-content-start"> Hi, I'm brian.</h1>
+    <h1 style={{ fontFamily: 'Passion One', fontSize: '500%' }} className="d-flex justify-content-start"> Hi, I'm brian.</h1>
     
     <div className="d-flex justify-content-start">
     <p className="d-flex justify-content-start lead intro">Web Developer who builds beautiful websites, inside and out.
@@ -47,7 +46,6 @@ function App() {
     </p>
     </div>
     <p className="lead">
-      <a href="#" className="btn btn-lg btn-secondary fw-bold border-white bg-white learn">Learn more</a>
       <a href="#" className="btn btn-lg btn-secondary fw-bold border-white text-white bg-dark js-explode">Download Resume</a>
     </p>
 </div>
@@ -60,11 +58,15 @@ function App() {
 <Social></Social>
 </main>
 <br></br>
+<br></br>
+<br></br>
 <Skills></Skills>
+<br></br>
 <br></br>
 <Projects></Projects>
 <br></br>
 <ContactSection></ContactSection>
+<br></br>
 <Footer></Footer>
   </div>
   </div>

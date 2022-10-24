@@ -10,9 +10,6 @@ import git from '../../assets/images/skills/github.svg';
 import express from '../../assets/images/skills/e-solid.svg';
 import mongo from '../../assets/images/skills/leaf-solid.svg';
 
-
-
-
 function Skills() {
     return(
         <section className="container">
@@ -23,13 +20,12 @@ function Skills() {
                     <li>beautiful, and smart</li>
                     <li>web or mobile applications.</li>
                 </ul> </div>
-                <div class="d-flex justify-content-start">
-                    
-                        <ul>
-                            <h1 style={{fontSize: '420%'}}><li>Imagine.</li></h1>
-                            <h1 style={{color: 'salmon', fontSize: '420%'}}><li>Code.</li></h1>
-                            <h1 style={{fontSize: '420%'}}><li>Develop.</li></h1>
-                        </ul>
+                <div>
+                <h1 className="d-flex justify-content-start"><ul>
+                            <li style={{fontSize: '300%'}}>Imagine.</li>
+                            <li style={{fontSize: '300%', color: "salmon"}}>Code.</li>
+                            <li style={{fontSize: '300%'}}>Develop.</li>
+                        </ul></h1>
     
                 </div>
             </div>
