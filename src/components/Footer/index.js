@@ -3,9 +3,9 @@ import React from "react";
 
 const Footer = () => {
     return(
-        <footer class="mt-auto text-white-50">
+        <footer className="mt-auto text-white-50">
     
-        <p>Made with ❤️ by <a href="" class="text-white">[brian nelson]</a></p>
+        <p>Made with ❤️ by <a href="https://github.com/brian-nelson10" className="text-white">[brian nelson]</a></p>
       </footer>
     
     

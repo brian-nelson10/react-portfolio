@@ -4,16 +4,15 @@ import arrow from '../../assets/images/arrows-right.svg';
 import CardList from "../Cards";
 
 function Projects() {
-    //const { currentCategory } = props;
     return(
         <><section id="projects" className="container">
             <div className="row align-items-start">
                 <div className="col">
-                    <img src={hand} alt="hand with pencil" class="hand" />
+                    <img src={hand} alt="hand with pencil" className="hand" />
                 </div>
 
 
-                <div data-aos="fade-left" class="col aos-init aos-animate jus" data-aos-duration="1000">
+                <div data-aos="fade-left" className="col aos-init aos-animate jus" data-aos-delay="800" data-aos-duration="1000">
                     <h4 className="d-flex justify-content-end lead">
                         <ul>
                             <li>All of the coffee</li>

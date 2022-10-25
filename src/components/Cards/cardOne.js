@@ -4,10 +4,10 @@ import Tilt from 'react-vanilla-tilt';
 const CardOne = () => {
     return (
         <>
-            <div className="col wrapper" data-tilt data-tilt-glare data-tilt-max-glare="1" data-tilt-max="50" data-tilt-speed="400" data-tilt-perspective="500">
-                <div className="card aos-init aos-animate" data-aos="flip-left" data-aos-duration="1000">
+            <div className="col wrapper" data-tilt data-tilt-glare data-tilt-max-glare="1" data-tilt-max="500" data-tilt-speed="400" data-tilt-perspective="500">
+                <div className="card aos-init aos-animate" data-aos="flip-left" data-aos-delay="500" data-aos-duration="1000">
                     <a href="https://kristafrancis.github.io/now-were-cookin/">
-                        <img src={require("../../assets/images/cards/0.png")} class="card-img-top" alt="..." />
+                        <img src={require("../../assets/images/cards/0.png")} className="card-img-top" alt="..." />
                     </a>
                     <div className="card-body">
                         <h5 className="card-title">Now We're Cookin'</h5>

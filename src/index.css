@@ -5,10 +5,10 @@
 
 /* Custom default button */
 .btn-secondary,
-.btn-secondary:hover,
+.btn-secondary:hover, 
 .btn-secondary:focus {
-  color: #333;
-  text-shadow: none; /* Prevent inheritance from `body` */
+  color: salmon;
+  text-shadow: none; 
 }
 
 /*
@@ -53,6 +53,7 @@ body {
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
+  color: rgba(255, 255, 255, .5);
   border-bottom-color: rgba(255, 255, 255, .25);
 }
 
@@ -72,7 +73,6 @@ body {
 .favicon {
     transform: scale(70%);
     cursor: pointer;
-
 }
 
 .favicon:hover {
@@ -84,7 +84,6 @@ h1 {
 }
 
 p {
-    
     font-size: 17px;
 }
 

@@ -4,8 +4,6 @@ import Modal from 'react-bootstrap/Modal';
 import Form from 'react-bootstrap/Form';
 import { validateEmail } from '../../utils/helpers';
 
-
-
 function ContactButton() {
     const [show, setShow] = useState(false);
 
@@ -43,11 +41,11 @@ function ContactButton() {
 
     return (
         <>
-        <Button onClick={handleShow} variant="light outline-light" size="lg" className="fw-bold" style={{fontFamily: "Rock Salt"}}>Drop a Line</Button>
+        <Button onClick={handleShow} variant="light outline-light" size="lg" className="fw-bold js-explode" style={{fontFamily: "Rock Salt"}}>Drop a Line</Button>
 
         <Modal show={show} onHide={handleClose}>
         <Modal.Header closeButton>
-          <Modal.Title style={{fontFamily:"Passion One", fontSize: "300%"}}>Send me a Message</Modal.Title>
+          <Modal.Body className="text-center" style={{fontFamily:"Passion One", fontSize: "300%"}}>Send me a Message</Modal.Body>
         </Modal.Header>
         <Form onSubmit={handleSubmit}>
         <div>
@@ -75,9 +73,9 @@ function ContactButton() {
         )}
         
         </Form>
-        <Modal.Body className='justify-content-center' style={{fontFamily: 'Passion One', fontSize:'300%'}}>Thank you for looking!</Modal.Body>
+        <Modal.Body className='text-center' style={{fontFamily: 'Passion One', fontSize:'300%'}}>Thank you for looking!</Modal.Body>
         <Modal.Footer className='justify-content-center'>
-          <Button variant="light outline-light" size="lg" className="fw-bold" style={{fontFamily: 'Rock Salt'}} onClick={handleClose}>
+          <Button variant="light outline-dark" size="lg" className="fw-bold" style={{fontFamily: 'Rock Salt'}} onClick={handleClose}>
             Maybe Later..
           </Button>
           <Button variant="light outline-light" size="lg" className="fw-bold" style={{fontFamily: 'Rock Salt'}} onClick={handleClose}>
