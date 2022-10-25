@@ -1,5 +1,6 @@
 import React from "react";
 import ContactButton from "../shared/buttons";
+import Drinks from "../shared/drinks";
 
 const ContactSection = () => {
     return (
@@ -21,7 +22,7 @@ const ContactSection = () => {
                         <li style={{fontSize: '250%'}}>Lets talk,</li>
                         <li style={{fontSize: '250%', color: 'salmon'}}>Collaborate,</li>
                         <li style={{fontSize: '250%'}}>and grab some </li>
-                        <li style={{fontSize: '250%'}} id="drinkText">Coffee.</li>
+                        <Drinks></Drinks>
                         <br></br>
                         <li><ContactButton></ContactButton></li>
                     </ul>
