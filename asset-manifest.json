@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.94c5cb86.css",
+    "main.js": "/react-portfolio/static/js/main.9a2065c0.js",
+    "static/js/787.0e6c9168.chunk.js": "/react-portfolio/static/js/787.0e6c9168.chunk.js",
+    "static/media/0.png": "/react-portfolio/static/media/0.79dac4b08707ac6fe133.png",
+    "static/media/1.png": "/react-portfolio/static/media/1.e9c327ab07c6b7e75bd6.png",
+    "static/media/collab.png": "/react-portfolio/static/media/collab.df85b116c2520cb99d6f.png",
+    "static/media/bnmoonclouds.png": "/react-portfolio/static/media/bnmoonclouds.fdc90e220b9f4b83d162.png",
+    "static/media/space-dude.png": "/react-portfolio/static/media/space-dude.57928d81e20d207641b6.png",
+    "static/media/workhand.png": "/react-portfolio/static/media/workhand.20823eea5fd4c4dd8f18.png",
+    "static/media/Rubik-Regular.ttf": "/react-portfolio/static/media/Rubik-Regular.974ab100afa4538622da.ttf",
+    "static/media/RockSalt-Regular.ttf": "/react-portfolio/static/media/RockSalt-Regular.95f10efb43f0ccd46405.ttf",
+    "static/media/resume.pdf": "/react-portfolio/static/media/resume.bca370785cd4a3920e10.pdf",
+    "static/media/PassionOne-Regular.ttf": "/react-portfolio/static/media/PassionOne-Regular.9c9b8a782e5c499ad7cb.ttf",
+    "static/media/moon.png": "/react-portfolio/static/media/moon.689b031aa70763e10b43.png",
+    "static/media/apple-touch-icon.png": "/react-portfolio/static/media/apple-touch-icon.0d445829cdef7291d284.png",
+    "static/media/react.svg": "/react-portfolio/static/media/react.43bbe5414340c6c1c4f449a40ceab6e3.svg",
+    "static/media/triangle.svg": "/react-portfolio/static/media/triangle.8a953ac9dd9b9e41e5a8033c1bd1ec33.svg",
+    "static/media/github.svg": "/react-portfolio/static/media/github.171b179b9abcd796dce0204e58bb5c5f.svg",
+    "static/media/node-js.svg": "/react-portfolio/static/media/node-js.8365f96227146f8309a2e4cd2bf4a8bd.svg",
+    "static/media/js.svg": "/react-portfolio/static/media/js.36b61afbcc9582370b7a0e1c30c208f3.svg",
+    "index.html": "/react-portfolio/index.html",
+    "static/media/leaf-solid.svg": "/react-portfolio/static/media/leaf-solid.09757a23049c4b64f8fe478ca01eefac.svg",
+    "static/media/arrows-right.svg": "/react-portfolio/static/media/arrows-right.e1d56db12a608138ed804e3899490f83.svg",
+    "static/media/html5.svg": "/react-portfolio/static/media/html5.c1e5a74f422a1c4ed5c3d11d62357001.svg",
+    "static/media/e-solid.svg": "/react-portfolio/static/media/e-solid.1c2767402922f91d391b4dac5f352867.svg",
+    "static/media/css3.svg": "/react-portfolio/static/media/css3.4de59696d12f6326fa6a1a464c0087a2.svg",
+    "main.94c5cb86.css.map": "/react-portfolio/static/css/main.94c5cb86.css.map",
+    "main.9a2065c0.js.map": "/react-portfolio/static/js/main.9a2065c0.js.map",
+    "787.0e6c9168.chunk.js.map": "/react-portfolio/static/js/787.0e6c9168.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94c5cb86.css",
+    "static/js/main.9a2065c0.js"
+  ]
+}
