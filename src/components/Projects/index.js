@@ -12,7 +12,7 @@ function Projects() {
                 </div>
 
 
-                <div data-aos="fade-left" className="col aos-init aos-animate jus" data-aos-delay="800" data-aos-duration="1000">
+                <div data-aos="fade-left" className="col aos-init aos-animate jus" data-aos-delay="1000" data-aos-duration="1000">
                     <h4 className="d-flex justify-content-end lead">
                         <ul>
                             <li>All of the coffee</li>

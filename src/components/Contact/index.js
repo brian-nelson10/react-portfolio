@@ -7,7 +7,7 @@ const ContactSection = () => {
         <section id="contact">
     <div className="container-fluid">
     <div className="row align-items-start">
-        <div className="col aos-init aos-animate" data-aos="zoom-out-right" data-aos-delay="500" data-aos-duration="1000">
+        <div className="col aos-init aos-animate" data-aos="zoom-out-right" data-aos-delay="1000" data-aos-duration="1000">
             <div className="d-flex justify-content-start lead"><ul>
                 <li>Currently seeking those who can provide</li>
                 <li>eyeball time, brain juice, lines of code,</li>
@@ -26,7 +26,7 @@ const ContactSection = () => {
                         <li><ContactButton></ContactButton></li>
                     </ul>
                 </h1>
-                        <div className="col justify-content-end aos-init aos-animate " data-aos="fade-up" data-aos-delay="600" data-aos-duration="1000">
+                        <div className="col justify-content-end aos-init aos-animate " data-aos="fade-up" data-aos-delay="1000" data-aos-duration="1000">
                             
                                             <div className="">
                                             <img src={require("../../assets/images/collab.png")} alt="collab" className="collab"/></div>

@@ -207,8 +207,6 @@ h4,
 @keyframes collab {
   from {transform: rotateX(0deg);}
   to {transform: rotateX(15deg);}
-  
-  
 }
 
 .skill {
@@ -305,5 +303,4 @@ height: 100%;
 .collab {
     height: 550px;
     position: inherit;
-   
 } 

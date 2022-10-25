@@ -9,8 +9,6 @@ import Footer from './components/Footer';
 
 //bootstrap
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
 
 // aos
 import AOS from 'aos';

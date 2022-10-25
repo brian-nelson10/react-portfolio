@@ -4,7 +4,7 @@ import Tilt from 'react-vanilla-tilt';
 const CardTwo = () => {
     return(
         <div className="col wrapper" data-tilt data-tilt-glare data-tilt-max-glare="1" data-tilt-max="100" data-tilt-speed="400" data-tilt-perspective="500">
-                <div className="card aos-init aos-animate" data-aos="flip-right" data-aos-delay="500" data-aos-duration="1000">
+                <div className="card aos-init aos-animate" data-aos="flip-right" data-aos-delay="800" data-aos-duration="1000">
                     <a href="https://dontgobroke.herokuapp.com/">
                         <img src={require("../../assets/images/cards/1.png")} className="card-img-top" alt="..."/>
                         </a>
