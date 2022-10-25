@@ -1,6 +1,6 @@
 import React from 'react';
 import Button from 'react-bootstrap/Button';
-import Resume from '../../assets/resume/resume.pdf'
+import Resume from '../../assets/resume/Resume2022.pdf'
 import Explode from './fun';
 
 const ResumeButton = () => {
