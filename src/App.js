@@ -1,7 +1,6 @@
 import React from 'react';
 import Nav from './components/Nav';
 import Skills from './components/Skills';
-import Social from './components/Social';
 import Projects from './components/Projects';
 import Home from './components/Home';
 import ContactSection from './components/Contact';
@@ -26,10 +25,6 @@ function App() {
 <br></br>
 <br></br>
 <Home></Home>
-<br></br>
-<Social></Social>
-<br></br>
-<br></br>
 <br></br>
 <br></br>
 <Skills></Skills>
