@@ -2,7 +2,6 @@ import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Resume from '../../assets/resume/brian.nelson.resume.pdf'
 
-
 const ResumeButton = () => {
     return (
         <>
