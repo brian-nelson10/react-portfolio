@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.94c5cb86.css",
-    "main.js": "/react-portfolio/static/js/main.1162e803.js",
+    "main.js": "/react-portfolio/static/js/main.3b2aca36.js",
     "static/js/787.0e6c9168.chunk.js": "/react-portfolio/static/js/787.0e6c9168.chunk.js",
     "static/media/0.png": "/react-portfolio/static/media/0.79dac4b08707ac6fe133.png",
     "static/media/1.png": "/react-portfolio/static/media/1.e9c327ab07c6b7e75bd6.png",
@@ -11,7 +11,7 @@
     "static/media/workhand.png": "/react-portfolio/static/media/workhand.20823eea5fd4c4dd8f18.png",
     "static/media/Rubik-Regular.ttf": "/react-portfolio/static/media/Rubik-Regular.974ab100afa4538622da.ttf",
     "static/media/RockSalt-Regular.ttf": "/react-portfolio/static/media/RockSalt-Regular.95f10efb43f0ccd46405.ttf",
-    "static/media/brian.nelson.resume.pdf": "/react-portfolio/static/media/brian.nelson.resume.5f023930cbd9cb2aaa2f.pdf",
+    "static/media/brian.nelson.resume.pdf": "/react-portfolio/static/media/brian.nelson.resume.5f5b90b91e90c4f6942a.pdf",
     "static/media/PassionOne-Regular.ttf": "/react-portfolio/static/media/PassionOne-Regular.9c9b8a782e5c499ad7cb.ttf",
     "static/media/moon.png": "/react-portfolio/static/media/moon.689b031aa70763e10b43.png",
     "static/media/apple-touch-icon.png": "/react-portfolio/static/media/apple-touch-icon.0d445829cdef7291d284.png",
@@ -27,11 +27,11 @@
     "static/media/e-solid.svg": "/react-portfolio/static/media/e-solid.1c2767402922f91d391b4dac5f352867.svg",
     "static/media/css3.svg": "/react-portfolio/static/media/css3.4de59696d12f6326fa6a1a464c0087a2.svg",
     "main.94c5cb86.css.map": "/react-portfolio/static/css/main.94c5cb86.css.map",
-    "main.1162e803.js.map": "/react-portfolio/static/js/main.1162e803.js.map",
+    "main.3b2aca36.js.map": "/react-portfolio/static/js/main.3b2aca36.js.map",
     "787.0e6c9168.chunk.js.map": "/react-portfolio/static/js/787.0e6c9168.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94c5cb86.css",
-    "static/js/main.1162e803.js"
+    "static/js/main.3b2aca36.js"
   ]
 }
